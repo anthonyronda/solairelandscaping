@@ -27,7 +27,7 @@ author:
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://solairelandscaping.com" # the base hostname & protocol for your site, e.g. http://example.com
 
-# google_analytics: G-YVDYVTNYTC
+google_analytics: G-YVDYVTNYTC
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
