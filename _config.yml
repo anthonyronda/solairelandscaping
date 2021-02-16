@@ -73,6 +73,7 @@ minima:
 header_pages:
  - about.markdown
  - services.markdown
+ - contact.markdown
 
 # Build settings
 plugins:
