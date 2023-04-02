@@ -27,7 +27,7 @@ author:
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://solairelandscaping.com" # the base hostname & protocol for your site, e.g. http://example.com
 
-google_analytics: G-YVDYVTNYTC
+# google_analytics: G-YVDYVTNYTC
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -71,9 +71,7 @@ minima:
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 header_pages:
- - about.markdown
  - services.markdown
- - contact.markdown
 
 # Build settings
 plugins:
