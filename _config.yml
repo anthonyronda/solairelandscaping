@@ -43,7 +43,7 @@ minima:
     # dribbble: jekyll
     # facebook: jekyll
     # flickr:   jekyll
-    instagram: solaire_landscaping
+    - { platform: instagram,  user_url: "https://www.instagram.com/solaire_landscaping" }
     # linkedin: jekyll
     # pinterest: jekyll
     # youtube: jekyll
@@ -79,7 +79,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-remote-theme
 
-remote_theme: jekyll/minima
+remote_theme: jekyll/minima@2.5.1
 
 # Exclude from processing.
 # The following items will not be processed, by default.
