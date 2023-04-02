@@ -6,4 +6,4 @@ layout: home
 title: Serving Homeowners in New York and New Jersey!
 ---
 
-{% include curator-dot-io-embed.html %}
+{% include embed-social-embed.html %}
